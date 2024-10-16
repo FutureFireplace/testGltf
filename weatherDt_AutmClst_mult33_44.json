@@ -1,0 +1,45 @@
+{
+  "fortnitePeriods":[
+    {        "dayHourConsump":"-12",   "windPrClust": "86",        "sunPrClust": "0" , "surplus": "-17"   },    {        "dayHourConsump":"13",   "windPrClust": "57",        "sunPrClust": "10" , "surplus": "-38"   },
+    {        "dayHourConsump":"13",   "windPrClust": "48",        "sunPrClust": "17", "surplus": "-60"    },    {        "dayHourConsump":"-3",   "windPrClust": "23",        "sunPrClust": "0"  , "surplus": "-79"  },
+
+    {        "dayHourConsump":"-21",   "windPrClust": "38",        "sunPrClust": "0" , "surplus": "-65"   },    {        "dayHourConsump":"10",   "windPrClust": "32",        "sunPrClust": "7"  , "surplus": "-65"  },
+    {        "dayHourConsump":"16",   "windPrClust": "50",       "sunPrClust": "15" , "surplus": "-42"   },    {        "dayHourConsump":"-2",   "windPrClust": "53",        "sunPrClust": "0"  , "surplus": "-49"  },
+
+    {        "dayHourConsump":"-17",   "windPrClust": "42",        "sunPrClust": "0"  , "surplus": "-61"  },    {        "dayHourConsump":"8",   "windPrClust": "9",        "sunPrClust": "6"  , "surplus": "-89"  },
+    {        "dayHourConsump":"11",   "windPrClust": "11",        "sunPrClust": "14" , "surplus": "-81"   },    {        "dayHourConsump":"4",   "windPrClust": "69",        "sunPrClust": "0"  , "surplus": "-34"  },
+
+    {        "dayHourConsump":"2",   "windPrClust": "115",       "sunPrClust": "0" , "surplus": "12"   },    {         "dayHourConsump":"20",   "windPrClust": "118",        "sunPrClust": "1"  , "surplus": "16"  },
+    {        "dayHourConsump":"28",   "windPrClust": "114",         "sunPrClust": "2" , "surplus": "12"   },    {      "dayHourConsump":"19",   "windPrClust": "125",        "sunPrClust": "0" , "surplus": "22"   },
+
+    {        "dayHourConsump":"8",   "windPrClust": "135",       "sunPrClust": "0"  , "surplus": "32"  },    {        "dayHourConsump":"29",   "windPrClust": "114",        "sunPrClust": "1"  , "surplus": "13"  },
+    {        "dayHourConsump":"34",   "windPrClust": "103",      "sunPrClust": "2" , "surplus": "2"   },    {        "dayHourConsump":"19",   "windPrClust": "95",        "sunPrClust": "0"  , "surplus": "-7"  },
+
+    {        "dayHourConsump":"2",   "windPrClust": "122",       "sunPrClust": "0" , "surplus": "19"   },    {        "dayHourConsump":"13",   "windPrClust": "97",        "sunPrClust": "1"   , "surplus": "-5" },
+    {        "dayHourConsump":"17",   "windPrClust": "79",         "sunPrClust": "2"  , "surplus": "-22"  },    {        "dayHourConsump":"0",   "windPrClust": "63",        "sunPrClust": "0" , "surplus": "-40"   },
+
+    {        "dayHourConsump":"-12",   "windPrClust": "57",        "sunPrClust": "0"  , "surplus": "-45"  },    {        "dayHourConsump":"-6",   "windPrClust": "57",        "sunPrClust": "4" , "surplus": "-42"  },
+    {        "dayHourConsump":"6",   "windPrClust": "49",        "sunPrClust": "5" , "surplus": "-50"   },    {        "dayHourConsump":"-2",   "windPrClust": "60",        "sunPrClust": "0" , "surplus": "-43"   },
+
+    {        "dayHourConsump":"-16",   "windPrClust": "66",        "sunPrClust": "0" , "surplus": "-37"   },    {        "dayHourConsump":"10",   "windPrClust": "36",        "sunPrClust": "6"  , "surplus": "-62"  },
+    {        "dayHourConsump":"12",   "windPrClust": "20",        "sunPrClust": "10" , "surplus": "-75"   },    {        "dayHourConsump":"0",   "windPrClust": "4",        "sunPrClust": "0"  , "surplus": "-98"  },
+
+    {        "dayHourConsump":"-17",   "windPrClust": "13",        "sunPrClust": "0"  , "surplus": "-89"  },    {        "dayHourConsump":"16",   "windPrClust": "59",        "sunPrClust": "2"  , "surplus": "-42"  },
+    {        "dayHourConsump":"24",   "windPrClust": "94",        "sunPrClust": "1" , "surplus": "-7"   },    {        "dayHourConsump":"16",   "windPrClust": "97",        "sunPrClust": "0"  , "surplus": "-6"  },
+
+    {        "dayHourConsump":"-1",   "windPrClust": "103",        "sunPrClust": "0" , "surplus": "0"   },    {        "dayHourConsump":"20",   "windPrClust": "80",        "sunPrClust": "2"  , "surplus": "-22"  },
+    {        "dayHourConsump":"21",   "windPrClust": "71",        "sunPrClust": "4" , "surplus": "-30"   },    {        "dayHourConsump":"12",   "windPrClust": "73",        "sunPrClust": "0"  , "surplus": "-30"  },
+
+    {        "dayHourConsump":"3",   "windPrClust": "76",        "sunPrClust": "0"  , "surplus": "-27"  },    {        "dayHourConsump":"20",   "windPrClust": "61",        "sunPrClust": "1"  , "surplus": "-41"  },
+    {        "dayHourConsump":"20",   "windPrClust": "44",        "sunPrClust": "2" , "surplus": "-57"   },    {        "dayHourConsump":"5",   "windPrClust": "44",        "sunPrClust": "0" , "surplus": "-59"   },
+
+    {        "dayHourConsump":"-12",   "windPrClust": "43",        "sunPrClust": "0" , "surplus": "-61"   },    {        "dayHourConsump":"15",   "windPrClust": "39",        "sunPrClust": "1" , "surplus": "-63"   },
+    {        "dayHourConsump":"16",   "windPrClust": "43",        "sunPrClust": "3" , "surplus": "-58"   },    {        "dayHourConsump":"3",   "windPrClust": "53",        "sunPrClust": "0" , "surplus": "-50"   },
+
+    {        "dayHourConsump":"-10",   "windPrClust": "56",        "sunPrClust": "0" , "surplus": "-48"   },    {        "dayHourConsump":"1",   "windPrClust": "57",        "sunPrClust": "1" , "surplus": "-45"   },
+    {        "dayHourConsump":"7",   "windPrClust": "61",        "sunPrClust": "3", "surplus": "-39"    },    {        "dayHourConsump":"1",   "windPrClust": "89",        "sunPrClust": "0" , "surplus": "-14"   },
+
+    {        "dayHourConsump":"1",   "windPrClust": "99",        "sunPrClust": "0" , "surplus": "-5"   },    {        "dayHourConsump":"14",   "windPrClust": "94",        "sunPrClust": "1" , "surplus": "-9"   },
+    {        "dayHourConsump":"22",   "windPrClust": "78",      "sunPrClust": "5" , "surplus": "-22"   },    {        "dayHourConsump":"7",   "windPrClust": "66",        "sunPrClust": "0" , "surplus": "-37"   }
+  ]
+}
