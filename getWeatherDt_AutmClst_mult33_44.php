@@ -3,7 +3,7 @@ header("Content-Type: application/json");
 
 //header("Access-Control-Allow-Origin: *");
 
-if(strpos($_SERVER["HTTP_ORIGIN"], "github.com/") == false){
+if(strpos($_SERVER["HTTP_ORIGIN"], "www.amfibios.dk") == true){
   header("Access-Control-Allow-Origin: " . $_SERVER["HTTP_ORIGIN"]);
 }
 
