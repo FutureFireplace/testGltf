@@ -3,7 +3,7 @@ header("Content-Type: application/json");
 
 //header("Access-Control-Allow-Origin: *");
 
-if(strpos($_SERVER["HTTP_ORIGIN"], "https://github.com/") == true){
+if(strpos($_SERVER["HTTP_ORIGIN"], "github.com/") == true){
   header("Access-Control-Allow-Origin: " . $_SERVER["HTTP_ORIGIN"]);
 }
 
