@@ -10,9 +10,9 @@ if(strpos($_SERVER["HTTP_ORIGIN"], "https://www.amfibios.dk/") == true){
   $fortnitePeriods = [
                         [
                           "dayHourConsump"=>"-12",
-                          "windPrClust": "86",
-                          "sunPrClust": "0" ,
-                          "surplus": "-17"
+                          "windPrClust"=>"86",
+                          "sunPrClust"=>"0" ,
+                          "surplus"=>"-17"
                          ]
                     ];
   echo json_encode($fortnitePeriods, JSON_PRETTY_PRINT);
