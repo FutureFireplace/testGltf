@@ -10,5 +10,5 @@ header("Access-Control-Allow-Origin: *");
                           "surplus": "-17"
                          ]
                     ];
-  echo json_encode($users, JSON_PRETTY_PRINT);
+  echo json_encode($fortnitePeriods, JSON_PRETTY_PRINT);
 ?>
