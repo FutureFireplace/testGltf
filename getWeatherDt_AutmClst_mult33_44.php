@@ -1,5 +1,4 @@
 <?php
-
 header("Content-Type: application/json");
 header("Access-Control-Allow-Origin: *");
 
@@ -11,4 +10,5 @@ header("Access-Control-Allow-Origin: *");
                           "surplus": "-17"
                          ]
                     ];
- ?>
+  echo json_encode($users, JSON_PRETTY_PRINT);
+?>
